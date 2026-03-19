@@ -127,16 +127,4 @@ Random deposition (200,000 grains)
                                             └── PROC REG → estimate τ̂
 ```
 
----
 
-
-## Tech Stack
-
-![SAS](https://img.shields.io/badge/SAS-PROC%20IML-blue?style=flat-square)
-![Model](https://img.shields.io/badge/Model-BTW%20Sandpile-orange?style=flat-square)
-![Geometry](https://img.shields.io/badge/Geometry-Abelian%20%7C%20Fractal-green?style=flat-square)
-![Stats](https://img.shields.io/badge/Statistics-Power--Law%20%7C%201%2Ff%20Noise-purple?style=flat-square)
-
-**Key SAS tools:** `PROC IML`, `heatmapdisc()`, `loc()`, `call tabulate()`, `PROC SGPLOT`, `PROC REG`
-
----
