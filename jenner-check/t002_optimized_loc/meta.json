@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_optimized_loc",
+  "source_file": "CODE SANDPILE.sas",
+  "source_blob_sha": "b1caf35a98d6c3dc3897e49eef253a022e7c074e",
+  "source_commit": "68392dd4155ad9461a7c797e5b5359427a728111",
+  "notes": "Optimized (center-driven) BTW sandpile: loc()-vectorized toppling from CODE SANDPILE.sas, grid 201->51 and grains 400000->2000 so the run completes fast. loc() selection, ceil(idx/n) index arithmetic, and Add-matrix redistribution unchanged. Deterministic; reports mod-4 fractal center row."
+}
