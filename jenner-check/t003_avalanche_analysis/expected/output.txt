@@ -1,0 +1,28 @@
+n_distinct_sizes
+      12
+n_avalanches
+     762
+max_avalanche_size
+      31
+
+                                                   The REG Procedure                                                    
+                                                     Model: MODEL1                                                      
+                                           Dependent Variable: log_freq_size                                            
+
+Source                 DF  Sum of Squares  Mean Square   F Value    Pr > F
+---------------  --------  --------------  -----------  --------  --------
+Model                   1         1.70657      1.70657      0.54    0.4784
+Error                  10        31.46899      3.14690                    
+Corrected Total        11        33.17556                                 
+
+Root MSE           1.77395    R-Square            0.0514
+Dependent Mean      -3.93774    Adj R-Sq           -0.0434
+Coeff Var        -45.04998
+
+                       Parameter Estimates                       
+
+Variable         DF  Estimate  Standard Error   t Value  Pr > |t|
+---------  --------  --------  --------------  --------  --------
+Intercept         1  -3.16969         1.16190     -2.73    0.0213
+LOG_SIZE          1  -0.39153         0.53167     -0.74    0.4784
+

@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_avalanche_analysis",
+  "source_file": "CODE SANDPILE.sas",
+  "source_blob_sha": "b1caf35a98d6c3dc3897e49eef253a022e7c074e",
+  "source_commit": "68392dd4155ad9461a7c797e5b5359427a728111",
+  "notes": "Avalanche statistics pipeline from CODE SANDPILE.sas: Size/Time tracking, call tabulate() frequency tables, log-log transforms, create/append of the distribution datasets, and PROC REG power-law fit unchanged. Deposition made deterministic (fixed sweep replaces rand()) and grains reduced 200000->3000 for a reproducible listing."
+}
